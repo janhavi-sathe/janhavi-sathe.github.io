@@ -14,3 +14,7 @@ url: "https://janhavi-sathe.github.io" # the base hostname & protocol for your s
 include:
   - _pages
   - .htaccess
+
+nav_pages:
+  - posts.md
+  - about.md
