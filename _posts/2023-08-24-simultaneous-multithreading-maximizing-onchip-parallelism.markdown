@@ -5,7 +5,6 @@ date:   2023-08-24 14:30:00 -0600
 categories: multicore computing, hpc, paper review
 ---
 
-# Simultaneous Multithreading: Maximizing On-Chip Parallelism
 Dean M. Tullsen, Susan J. Eggers, and Henry M. Levy. In Proceedings of the 22nd annual international symposium on Computer architecture (ISCA '95). ACM, New York, NY, USA, 392-403. 1995. DOI=http://dx.doi.org/10.1145/223982.224449 [Link](https://www.princeton.edu/~rblee/ELE572Papers/SMT_Eggers.pdf)
 ## Summary
 
