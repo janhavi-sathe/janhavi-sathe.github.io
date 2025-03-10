@@ -5,7 +5,7 @@ date:   2023-09-05 13:15:00 -0600
 categories: multicore computing, hpc, paper review
 ---
 
-Coherence Protocols
+Cache Coherence Protocols
 Chapter 6: Coherence Protocols;
 Chapter 7 Snooping Coherence Protocols;
 Chapter 8: Directory Coherence Protocols.
