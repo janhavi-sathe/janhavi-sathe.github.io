@@ -5,6 +5,10 @@ plugins:
 minima:
   skin: auto
 
+  nav_pages:
+    - posts.md
+    - about.md
+
 title: Janhavi Sathe
 
 author:
@@ -22,8 +26,6 @@ include:
   - _pages
   - .htaccess
 
-nav_pages:
-  - posts.md
-  - about.md
+
 
 show_excerpts: false
