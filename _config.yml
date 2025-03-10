@@ -4,7 +4,7 @@ plugins:
 #  - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Janhavi Sathe
 description: >- # this means to ignore newlines until "baseurl:"
-  Janhavi Sathe ©2025
+  Janhavi Sathe © 2025.
 
 github_username: janhavi-sathe
 
