@@ -29,3 +29,5 @@ include:
 
 
 show_excerpts: false
+
+excerpt_separator: <!--more-->  # Define a custom excerpt separator

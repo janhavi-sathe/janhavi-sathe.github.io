@@ -12,9 +12,20 @@ permalink: /posts/
       </h2>
       <p class="post-excerpt">
         {% if post.custom_excerpt %}
-          {{ post.custom_excerpt | truncate: 100 }}
+          {{ post.custom_excerpt | strip_html | truncate: 300 }}
         {% else %}
-          {{ post.excerpt | strip_html | truncate: 100 }}
+          {{ post.excerpt | strip_html | truncate: 300 }}
+        {% endif %}
+      </p>
+      <p class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%B %d, %Y" }}
+        </time>
+        {% if post.categories %}
+        • 
+        {% for category in post.categories %}
+          <span class="post-category">{{ category }}</span>
+        {% endfor %}
         {% endif %}
       </p>
     </article>
