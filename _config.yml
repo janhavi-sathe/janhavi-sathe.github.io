@@ -5,7 +5,7 @@ plugins:
 minima:
   skin: auto
 
-  nav_pages:
+  header_pages:
     - posts.md
     - about.md
 

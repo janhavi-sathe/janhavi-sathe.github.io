@@ -1,14 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Posts
+permalink: /posts/
 ---
-<ul>
+
+<div class="post-feed">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
+    <article class="post-item">
+      <h2 class="post-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <p class="post-excerpt">
+        {% if post.custom_excerpt %}
+          {{ post.custom_excerpt | truncate: 100 }}
+        {% else %}
+          {{ post.excerpt | strip_html | truncate: 100 }}
+        {% endif %}
+      </p>
+    </article>
   {% endfor %}
-</ul>
+</div>

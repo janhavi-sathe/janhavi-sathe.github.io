@@ -1,0 +1,145 @@
+.post-feed {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0;
+}
+
+.post-item {
+    list-style: none;
+    margin-bottom: 2.5rem;
+    padding: 1.5rem;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+}
+
+.post-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.post-title {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.post-title a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.post-title a:hover {
+    color: #0366d6;
+}
+
+.post-excerpt {
+    color: #666;
+    margin: 0;
+    font-size: 0.85rem;
+    line-height: 1.5;
+}
+
+.home-content {
+    margin-top: 2rem;
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+/* Footer styles */
+.site-footer {
+    padding: 30px 0;
+    border-top: 1px solid #e8e8e8;
+}
+
+.footer-col-wrapper {
+    display: flex;
+    margin: 0;
+    font-size: 15px;
+    color: #828282;
+}
+
+.footer-col-1 {
+    width: 220px;  /* Match navigation spacing */
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.footer-col-3 {
+    padding-left: 0;
+    text-align: left;
+    flex: 1;
+    margin-left: 60px;  /* Add spacing between columns */
+}
+
+.footer-content {
+    margin-left: 0;  /* Reset margin since we're using column spacing */
+}
+
+.footer-content p {
+    margin: 0;
+}
+
+.feed-subscribe {
+    margin-bottom: 1em;
+}
+
+.feed-subscribe .svg-icon {
+    width: 16px;
+    height: 16px;
+    fill: #828282;
+    margin-right: 5px;
+    position: relative;
+    top: 3px;
+}
+
+.feed-subscribe a {
+    text-decoration: none;
+    color: #2a7ae2;
+}
+
+.feed-subscribe a:hover {
+    color: #111;
+    text-decoration: underline;
+}
+
+.feed-subscribe svg.orange {
+    fill: #f66a0a;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+@media screen and (max-width: 600px) {
+    .footer-col-wrapper {
+        flex-direction: column;
+    }
+
+    .footer-col-1,
+    .footer-col-3 {
+        width: 100%;
+        margin-bottom: 15px;
+        text-align: left;
+        padding-left: 0;
+        margin-left: 0;  /* Reset column spacing on mobile */
+    }
+
+    .footer-content {
+        margin-left: 0;  /* Reset margin on mobile */
+    }
+}
+
+/* Ensure proper spacing in site header for comparison */
+.site-nav {
+    margin-left: 310px;
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav {
+        margin-left: 0;
+    }
+}
