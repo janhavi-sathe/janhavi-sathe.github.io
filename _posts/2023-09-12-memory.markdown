@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paper Review: Memory Models: A Case for Rethinking Parallel Languages and Hardware"
-date:   2023-08-31 11:52:00 -0600
+date:   2023-09-12 14:03:00 -0600
 categories: multicore computing, hpc, paper review
 ---
 
