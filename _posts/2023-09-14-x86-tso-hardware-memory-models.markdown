@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Paper Review: x86-TSO: A Rigorous and Usable Programmer’s Model for x86 Multiprocessors"
+title:  "Paper Review: x86-TSO: A Rigorous and Usable Programmer's Model for x86 Multiprocessors"
 date:   2023-09-14 12:13:00 -0600
 categories: multicore computing, hpc, paper review
+custom_excerpt: "Proposes x86-TSO, a mathematically rigorous yet accessible programmer's memory model for x86 processors. Addresses issues in previous Intel and AMD specifications."
 ---
 # x86-TSO: a rigorous and usable programmer's model for x86 multiprocessors.
 [x86-TSO: a rigorous and usable programmer's model for x86 multiprocessors.](http://www.spinroot.com/spin/Doc/course/x86_tso.pdf) Peter Sewell, Susmit Sarkar, Scott Owens, Francesco Zappa Nardelli, and Magnus O. Myreen. Communications of the ACM 53, 7 (July 2010), 89-97. DOI=10.1145/1785414.1785443 http://doi.acm.org/10.1145/1785414.1785443

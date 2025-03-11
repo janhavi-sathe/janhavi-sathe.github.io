@@ -3,6 +3,7 @@ layout: post
 title:  "Paper Review: Optimization of Sparse Matrix-Vector Multiplication on Emerging Multicore Platforms"
 date:   2023-08-29 11:48:00 -0600
 categories: multicore computing, hpc, paper review
+custom_excerpt: "Evaluates SpMV optimization methods across multicore architectures. Shows in-order, fine-grained multicores offer better scalability and energy efficiency despite single-core latency costs."
 ---
 [Optimization of sparse matrix-vector multiplication on emerging multicore platforms](https://dl.acm.org/doi/10.1145/1362622.1362674). Samuel Williams, Leonid Oliker, Richard Vuduc, John Shalf, Katherine Yelick, and James Demmel. In Proceedings of the 2007 ACM/IEEE conference on Supercomputing (SC '07). Association for Computing Machinery, New York, NY, USA, Article 38, 1â€“12. DOI:https://doi.org/10.1145/1362622.1362674 
 ## Summary

@@ -3,6 +3,7 @@ layout: post
 title:  "Paper Review: Memory Models: A Case for Rethinking Parallel Languages and Hardware"
 date:   2023-09-12 14:03:00 -0600
 categories: multicore computing, hpc, paper review
+custom_excerpt: "Examines Sequential Consistency with Data Race Free conditions across hardware and software implementations. Proposes future memory models should leverage both programming languages and hardware."
 ---
 
 [Memory Models: A Case for Rethinking Parallel Languages and Hardware](http://dl.acm.org/citation.cfm?id=1787255) Sarita V. Adve, Hans-J. Boehm. Communications of the ACM, Vol. 53 No. 8, Pages 90-101, August, 2010. 10.1145/1787234.1787255

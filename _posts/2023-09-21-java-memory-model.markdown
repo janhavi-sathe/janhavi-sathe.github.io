@@ -3,6 +3,7 @@ layout: post
 title:  "Paper Review: Java Memory Model"
 date:   2023-09-21 13:08:00 -0600
 categories: multicore computing, hpc, paper review
+custom_excerpt: "Introduces Java 5.0's new Memory Model with explicit rules for synchronized programs and guarantees against out-of-thin-air values. Presents both a simplified 'Happens-before' model and formal specifications."
 ---
 ## The JAVA Memory Model
 [The Java Memory Model](http://doi.acm.org/10.1145/1040305.1040336), J. Manson, W. Pugh, and S. V. Adve. In Proceedings of the Symposium on Principles of Programming Languages (PoPL), January 2005.

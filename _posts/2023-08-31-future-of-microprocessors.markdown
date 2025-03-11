@@ -3,6 +3,7 @@ layout: post
 title:  "Paper Review: Future of Microprocessors"
 date:   2023-08-31 11:52:00 -0600
 categories: multicore computing, hpc, paper review
+custom_excerpt: "Analyzes past scaling methods (transistor-speed, micro-architecture, cache) to predict future microprocessor trends. Suggests multi-core and custom hardware as key growth drivers."
 ---
 [The Future of Microprocessors](http://dl.acm.org/citation.cfm?doid=1941487.1941507). Shekhar Borkar and Andrew A. Chien. Communications of the ACM, Vol. 54 No. 5, Pages 67-77 10.1145/1941487.1941507.
 

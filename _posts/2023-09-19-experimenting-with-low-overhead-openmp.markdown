@@ -3,6 +3,7 @@ layout: post
 title:  "Paper Review: Experimenting with Low-Overhead OpenMP Runtime on BG/Q"
 date:   2023-09-19 12:35:00 -0600
 categories: multicore computing, hpc, paper review
+custom_excerpt: "Proposes optimizations to OpenMP for better scalability on BlueGene/Q by caching thread group allocations. Achieves up to 4.9x improvement in overhead reduction for 64 threads."
 ---
 
 # Experimenting with Low-Overhead OpenMP Runtime on BG/Q

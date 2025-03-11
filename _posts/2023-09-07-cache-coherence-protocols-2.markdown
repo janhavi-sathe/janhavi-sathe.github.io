@@ -3,6 +3,7 @@ layout: post
 title:  "Paper Review: Cache Coherence Protocols - II"
 date:   2023-09-05 13:15:00 -0600
 categories: multicore computing, hpc, paper review
+custom_excerpt: "Introduces Victim Replication, a new cache management policy extending shared cache schemes to reduce on-chip communication delays. Shows 16% latency reduction compared to L2 Shared scheme."
 ---
 
 Victim Replication: Maximizing Capacity while Hiding Wire Delay in Tiled Chip Multiprocessors (http://pages.cs.wisc.edu/~isca2005/papers/06A-01.PDF), M. Zhang and K. Asanovic. In Proceedings 32nd International Symposium on Computer Architecture, Madison, WI, June 2005.

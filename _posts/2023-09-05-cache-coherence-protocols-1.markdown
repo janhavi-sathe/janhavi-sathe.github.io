@@ -3,6 +3,7 @@ layout: post
 title:  "Paper Review: Cache Coherence Protocols - I"
 date:   2023-09-05 13:15:00 -0600
 categories: multicore computing, hpc, paper review
+custom_excerpt: "Provides a comprehensive overview of cache coherence protocols, explaining controller networks and protocol structures. Details the key components: states, transactions, and protocol design options."
 ---
 
 Cache Coherence Protocols
