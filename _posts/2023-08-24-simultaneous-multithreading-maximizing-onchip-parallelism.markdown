@@ -8,11 +8,11 @@ custom_excerpt: "Studies SMT in superscalar processors to reduce instruction cyc
 
 Dean M. Tullsen, Susan J. Eggers, and Henry M. Levy. In Proceedings of the 22nd annual international symposium on Computer architecture (ISCA '95). ACM, New York, NY, USA, 392-403. 1995. DOI=http://dx.doi.org/10.1145/223982.224449 [Link](https://www.princeton.edu/~rblee/ELE572Papers/SMT_Eggers.pdf)
 
+This paper studies "simultaneous multi-threading" (SMT) in superscalar processors as a way of reducing vertical & horizontal waste in instruction cycles & reducing bottlenecks. Their analysis focuses on how well this method is able to utilise infrastructure and includes comparisons with alternative organisations viz. a wide superscalar, a fine-grain multithreaded processor, and single-chip, multiple-issue multiprocessing architectures.
+
 <!--more-->
 
 ## Summary
-
-This paper studies "simultaneous multi-threading" (SMT) in superscalar processors as a way of reducing vertical & horizontal waste in instruction cycles & reducing bottlenecks. Their analysis focuses on how well this method is able to utilise infrastructure and includes comparisons with alternative organisations viz. a wide superscalar, a fine-grain multithreaded processor, and single-chip, multiple-issue multiprocessing architectures.
 
 The paper also briefly delves into the design complexities introduced by SMT & shared resource contention caused by it, especially in the memory subsystems and offers simplified models which can achieve great performance whilst restraining the complexity to existing levels at the time. The authors also show how properly tuning the cache organization can both increase performance and make individual threads less sensitive to multi-thread contention. Ultimately, the results show that SMT processors have strong potential for better performance with similar number of functional units.
 
