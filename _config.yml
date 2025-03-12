@@ -32,6 +32,10 @@ show_excerpts: false
 # Excerpt settings
 excerpt_separator: "<!--more-->"  # Define a custom excerpt separator
 
+# Pagination settings
+paginate: 10
+paginate_path: "/posts/page:num/"
+
 # Markdown settings
 markdown: kramdown
 kramdown:
