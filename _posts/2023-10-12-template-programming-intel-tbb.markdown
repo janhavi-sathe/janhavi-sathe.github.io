@@ -3,7 +3,7 @@ layout: post
 title:  "Paper Review: Multicore Desktop Programming with Intel Threading Building Blocks"
 date:   2023-10-12 08:36:00 -0600
 categories: multicore computing, hpc, paper review
-custom_excerpt: ""
+custom_excerpt: "This article talks about Intel's Threading Building Blocks (TBB) which is C++ template library which is based on a task-based, modular programming model that uses a work-stealing algorithm for developing composable execution environments for desktop applications."
 ---
 [Multicore Desktop Programming with Intel Threading Building Blocks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5672517) W. Kim and M. Voss. IEEE Software, vol. 28, no. 1, pp. 23-31, Jan.-Feb. 2011, doi: 10.1109/MS.2011.12.
 ## Summary
