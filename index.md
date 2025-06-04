@@ -4,22 +4,21 @@
 
 layout: home
 ---
-# Janhavi's Homepage  
-## 💡 Headlines
+**`💡 A B O U T   M E`**  
 Helloo! I'm Janhavi (jaan-huh-vee), here's a little about me:
 
-👶 **Ideal Roles:** Data Analyst / Data Scientist / Applied ML Engineer. 
+👉 **Ideal Roles:** Data Analyst / Data Scientist / Applied ML Engineer. 
 
 👩🏻‍💻 **Current Interests:** Raw Data, Fried Data, and Deconstructed Data. 
 
-⚰️ **Permanent Interests:** Mathematics, Stories, and Food.
+✨ **Permanent Interests:** Mathematics, Stories, and Food.
 
-## 👋 Socials
+**`👋 S O C I A L S`**  
 Check me out on other platforms: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/janhavi-sathe/)  [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://janhavi-sathe.github.io/posts) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://janhavisathe.substack.com/?r=22jqs4&utm_campaign=pub-share-checklist)
 
-## 🛠️ Tech-Stack
+**`🛠️ T E C H - S T A C K`**  
 **Programming**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?logo=javascript&style=for-the-badge&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF8800?style=for-the-badge&logo=MATLAB&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) 
 
