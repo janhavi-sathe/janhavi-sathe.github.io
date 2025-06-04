@@ -4,7 +4,8 @@
 
 layout: home
 ---
-## 💡 About me
+# Janhavi's Homepage  
+## 💡 Headlines
 Helloo! I'm Janhavi (jaan-huh-vee), here's a little about me:
 
 👶 **Ideal Roles:** Data Analyst / Data Scientist / Applied ML Engineer. 
